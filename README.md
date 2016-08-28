@@ -2,7 +2,7 @@
 A service supporting financial inclusion and consumer empowerment
 
 <p style="text-align:center">
-<img src="your_relative_path_here" width="350"/>
+<img src="img/banner.png" width="350"/>
 </p>
   
 The Caloy Service has three features:
