@@ -20,7 +20,7 @@ class replytocode{
 		
 		
 	function connect(){
-		$connection = new mysqli('localhost','root','password','dbbankifation');
+		$connection = new mysqli('localhost','root1','','dbbankifation');
 		if($connection->connect_error){
 			return die("CONNECTION FAILED: " .$connection->connect_error);
 		}else{

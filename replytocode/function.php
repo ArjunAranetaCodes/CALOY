@@ -12,7 +12,7 @@ $debitcard = $replytocode->getdebitcard($msg[1]);
 $topupcard = $replytocode->gettopupcard($msg[1]);
 $debitcardkeyword = $code. ' '.$debitcard;
 $topupkeyword = $code.' '.$topupcard;
-x
+
 if($code == "WRONG KEYWORD"){
 	echo $code;	
 }else{
