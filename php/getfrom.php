@@ -155,7 +155,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="../js/bootstrap.min.js"></script>
     <!-- bxSlider Javascript file -->
-    <script src="../js/jquery.bxslider.min.js"></script>
+    <script src=""></script>
       <script>
 
 
