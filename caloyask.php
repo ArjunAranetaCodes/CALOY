@@ -45,8 +45,12 @@
       </nav>
     </header>
 
-    <section id="banner" class="section-padding">
-		<img src="img/banner.png" alt="" />
+    <section id="banner" class="section-padding" style="margin-top:50px;padding-left:50px;padding-right:50px;">
+		<form action="php/getfrom.php" method="post">
+		<input name="item" type="" class="form-control" style="" placeholder="Type the search term here"/>
+		<input type="submit" class="btn btn-success" value="Submit"/>
+		
+		</form>
     </section>
 
     <section id="about" class="section-padding">
@@ -66,7 +70,7 @@
               </div>
               <h3 class="pad-bt15">Caloy Card</h3>
               <p>Visa Debit Card Solution that can be used to buy online.</p>
-			  <a href="caloycard.html" class="btn btn-large btn-primary">I want to see one!</a>
+			  <a href="caloycard.html" class="btn btn-large btn-primary">Go to Caloy Card</a>
             </div>
           </div>
           <div class="col-md-4">
@@ -76,7 +80,7 @@
               </div>
               <h3 class="pad-bt15">Caloy Ask</h3>
               <p>Sentiment Analysis for products you want to query.</p>
-			  <a href="caloyask.html" class="btn btn-large btn-primary">Go to Caloy Ask</a>
+			  <a href="caloyask.php" class="btn btn-large btn-primary">Go to Caloy Ask</a>
             </div>
           </div>
           <div class="col-md-4">
