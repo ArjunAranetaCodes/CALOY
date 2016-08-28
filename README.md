@@ -12,7 +12,7 @@ The Caloy Service has three features:
   - For every top-up cards purchased, the customer is legible for claiming awards and coupons.
   
 ---Team HexDev
-Arjun Araneta
-Ed Nemenzo
-Enrik Sabalvaro
-Julius Marco
+Arjun Araneta,
+Ed Nemenzo,
+Enrik Sabalvaro,
+Julius Marco,
