@@ -1,6 +1,10 @@
 # CALOY
 A service supporting financial inclusion and consumer empowerment
 
+<p style="text-align:center">
+<img src="your_relative_path_here" width="350"/>
+</p>
+  
 The Caloy Service has three features:
 1. Prepaid Visa Debit Card (Caloy Card)
   - These cards can be bought from sari-sari stores and other retail stores. There will be two types of cards: savings and Top-up card.
@@ -16,3 +20,4 @@ Arjun Araneta,
 Ed Nemenzo,
 Enrik Sabalvaro,
 Julius Marco,
+
